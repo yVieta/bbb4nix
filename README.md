@@ -7,7 +7,7 @@ This Modul will be contributed to the [official nixpkgs](https://github.com/NixO
 That includes [packages](packages/README.md) and [modules](modules/README.md) for all relevant components.
 
 ## Todos
-- Rewriting the modules for
+- Rewriting the modules for Nixpkgs
 - Testing on "standalone"
 
 ### Comments from Helsinki
